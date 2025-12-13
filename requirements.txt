@@ -1,4 +1,5 @@
 flask
 openai-whisper
 torch
+google-generativeai
 ffmpeg-python
