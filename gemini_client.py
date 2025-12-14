@@ -21,7 +21,7 @@ def get_model():
         "response_mime_type": "application/json",
     }
     
-    model_name = "gemini-1.5"  # <--- CHANGED THIS
+    model_name = "gemini-1.5-flash"  # <--- CHANGED THIS
 
     logger.info(f"Initializing Gemini Model: {model_name}")
     
